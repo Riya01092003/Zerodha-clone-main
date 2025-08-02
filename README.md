@@ -2,12 +2,6 @@
 
 A fully responsive **Zerodha Clone** created as a full-stack project that replicates the core functionality and user interface of India's leading stock trading platform, Zerodha. The project focuses on clean UI/UX and modular component design to simulate a modern trading environment.
 
-## 🚀 Live Preview
-
-[🔗 Link to Hosted App](#) (if deployed)
-
----
-
 ## 📌 Features
 
 - 🖥️ Clean & Responsive UI similar to Zerodha
@@ -34,15 +28,6 @@ A fully responsive **Zerodha Clone** created as a full-stack project that replic
 - JWT for Authentication
 - REST APIs for dynamic data
 
----
-
----
-
-## 📸 Screenshots
-
-_Add screenshots here (UI, dashboard, login page, etc.) to impress!_
-
----
 
 ## 🚀 Getting Started
 
